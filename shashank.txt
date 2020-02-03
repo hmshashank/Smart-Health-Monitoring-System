@@ -1,3 +1,5 @@
 welcome
 to check ur health status
-to know ur BMI 
+to know ur BMI
+
+water alarm
